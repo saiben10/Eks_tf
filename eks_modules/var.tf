@@ -1,0 +1,3 @@
+variable "eks" {
+    type = string
+}
